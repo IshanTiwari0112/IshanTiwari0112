@@ -1,4 +1,4 @@
-## Hi there 👋
+![Snake animation](https://github.com/IshanTiwari0112/IshanTiwari0112/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **IshanTiwari0112/IshanTiwari0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
